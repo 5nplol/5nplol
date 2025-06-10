@@ -8,12 +8,14 @@
     <div align="center">
       she/her / silly software engineer / 🩷<br />
       <a href="https://discord.com/users/903262692335312946/">discord</a> ~ 
-      <a href=""></a> 
+      <a href="5np.lol">website</a>  ~ 
       <a href=""></a><br />
       <br />
       <p><a href="https://discord.com/users/903262692335312946"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/903262692335312946?bg=302c33"></a></p>
       <br />
       <p>
+         <img src="https://komarev.com/ghpvc/?username=5nplol&style=flat-square&color=F5A9B8&label=views">
+         <img src="https://img.shields.io/badge/Freelancer-F5A9B8?style=flat-square&logo=Freelancer&logoColor=white">
         </a>
       </p>
     </div>
