@@ -10,6 +10,7 @@
       <a href="https://discord.com/users/903262692335312946/">discord</a> ~ 
       <a href="5np.lol">website</a>  ~ 
       <a href=""></a><br />
+      <a href ="uwu.5np.lol">mini project</a> ~
       <br />
       <p><a href="https://discord.com/users/903262692335312946"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/903262692335312946?bg=302c33"></a></p>
       <br />
