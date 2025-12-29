@@ -6,7 +6,7 @@
   <img align="left" width="305px" src="https://github.com/5nplol/coolstuff/blob/main/banner%20(1).png?raw=true">
   <p float="left">
     <div align="center">
-       silly software engineer / 🩷<br />
+     <br />
       <a href="https://discord.com/users/903262692335312946/">discord</a> ~ 
       <a href="5np.lol">website</a>  ~ 
       <a href=""></a><br />
